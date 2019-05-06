@@ -7,11 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Meal prep page that you can track prepped food in the fridge, freezer and pantry
+Make a shopping list to help keep you on track with meal prepping
+Aleesha gave me this idea while we meal prepped together.
 ### Features
-Include Features here
+User login - create account
+Add prepped food, Remove eaten food, Move from freezer to fridge
+Make shopping list
 ### Technologies
-Include Technologies here
+Java
+HTML
+much more, but undecided how i want to go about it
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+possibly JavaScript
